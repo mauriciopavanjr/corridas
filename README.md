@@ -9,12 +9,12 @@ Certifique-se de ter Python instalado na sua máquina. Você pode baixar a vers�
 ## Instalação
 1. Clone este repositório em sua máquina local:
     ```
-    git clone https://github.com/seu-usuario/sua-aplicacao.git
+    git clone https://github.com/mauriciopavanjr/corridas.git
     ```
 
 2. Navegue até o diretório da aplicação:
     ```
-    cd sua-aplicacao
+    cd corridas
     ```
 
 3. Instale as dependências usando o pip:
